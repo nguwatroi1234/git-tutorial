@@ -1,0 +1,13 @@
+git init  {cai dat respositorie(kho luu tru)}
+git add . (track tat ca cac file)
+git commit -m "messege" (xac thuc)
+git push (day len gitHub)
+
+git branch ( xem cac nhanh dang co )
+git branch branchName (tao 1 nhanh moi)
+git checkout bracnhName (Chon nhanh')
+git add .
+git commit - m ""
+
+git merge branchName (chuyen ve master roi git merge)
+git pull (day len github)
